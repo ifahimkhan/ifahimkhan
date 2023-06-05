@@ -1,6 +1,14 @@
 ### Hi there 👋
 # 💫 About Me:
-Android developer, senior Android developer at Tagit RFID Solutions, I am a PostGraduate in Master of Science in Information Technology.<br>Shooot me an Email or add me on Linkedin
+I am an experienced Android developer currently working as a Senior Android Developer at Tagit RFID Solutions. With a Postgraduate degree in Master of Science in Information Technology, I have a strong background in software development and a passion for creating innovative mobile applications.
+
+I have expertise in Android app development, including proficiency in Java and Kotlin programming languages. Throughout my career, I have successfully delivered high-quality mobile solutions that meet clients' requirements and provide an excellent user experience.
+
+I am always eager to collaborate on exciting projects and explore new opportunities. If you have any questions, suggestions, or potential collaborations, feel free to shoot me an email or connect with me on LinkedIn.
+
+Email: heyfahim@gmail.com
+LinkedIn: https://www.linkedin.com/in/ifahimkhan/
+
 
 
 ## 🌐 Socials:
