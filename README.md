@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-I am an experienced Android developer currently working as a Senior Android Developer at Tagit RFID Solutions. With a Postgraduate degree in Master of Science in Information Technology, I have a strong background in software development and a passion for creating innovative mobile applications.
+I am an experienced Android developer currently working as a Lead Android Developer at Tagit RFID Solutions. With a Postgraduate degree in Master of Science in Information Technology, I have a strong background in software development and a passion for creating innovative mobile applications.
 
 I have expertise in Android app development, including proficiency in Java and Kotlin programming languages. Throughout my career, I have successfully delivered high-quality mobile solutions that meet clients' requirements and provide an excellent user experience.
 
